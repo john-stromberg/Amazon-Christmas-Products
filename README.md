@@ -7,7 +7,7 @@ We used 2 datasets from the City of Orlando, Florida Open Source Crime data webs
 
 Transformation
 
-Our first steps in cleaning up the datasets involved figuring out which variables were not relevant. While there were some differences in the two files, many of the columns were the same information, just listed under different names. Some of the transformations tactics used were:
+Our first steps in cleaning up the datasets involved figuring out which variables were not relevant. While there were some differences in the two csv files, many of the columns were the same information, just listed under different names. Some of the transformations tactics used were:
 * Dropping irrevelant columns
 * Removed any blanks and unwanted years
 * Split timestamp from datestamp 
